@@ -1,0 +1,5 @@
+  let selectValue = selectInput.value;
+  let numberValue = numberInput.value;
+  if (numberValue < 50 && selectValue == "Cotton") {
+    console.log("dggg");
+  }
