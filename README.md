@@ -1,2 +1,1 @@
-# ShippingTimeCalculator.github.io
-ShippingTimeCalculator Case 
+https://nihantelli.github.io/ShippingTimeCalculator.github.io/
